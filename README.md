@@ -1,3 +1,3 @@
-# Encript-Decript
+# Encrypt-Decrypt
 
-Simple to program encript and decript information made in C.
+Simple to program encrypt and decrypt information made in C.
